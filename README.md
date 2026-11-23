@@ -3,7 +3,7 @@
 『별의 커비 Wii 디럭스』의 히든 보스인 갤럭틱 나이트의 하드모드입니다.
 
 ## 주요 특징 및 주의사항 (Notes)
-* 갤럭틱 나이트 하드모드와 진 격투왕의 길에서 첫 번째 보스로 갤럭틱 나이트가 등장하는 모드는 별개입니다. 두 모드는 서로 호환됩니다.
+* 갤럭틱 나이트 울트라와 진 격투왕의 길에서 첫 번째 보스로 갤럭틱 나이트가 등장하는 모드는 별개입니다. 두 모드는 서로 호환됩니다.
 * 호환성 안내: 다른 모드와의 호환성은 테스트되지 않았습니다.
 
 ## 설치 방법 (Installation)
@@ -17,3 +17,11 @@
 
 # Galacta-Knight-Ultra
 A hard mode mod of Galacta Knight in Kirby's Return to Dream Land Deluxe.
+
+## Notes
+* Galacta Knight Ultra and Galacta Knight as the 1st boss in The True Arena are two different mods. The two mods are compatible with each other.
+* Compatibility with other mods has not been tested.
+
+## Permissions / 이용 안내
+- **Personal use only.** You are free to download and use this mod for personal gameplay.
+- **Do not re-upload or redistribute** these files to other websites, mod packs, or platforms without explicit permission.
